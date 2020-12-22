@@ -1,0 +1,26 @@
+{
+  "name": "codeforfefe",
+  "version": "1.0.0",
+  "description": "npm installs you will need to do if you haven't done so already",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "humanize": "^0.0.9",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyguy2601/CodeForFefe.git"
+  },
+  "author": "shyguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyguy2601/CodeForFefe/issues"
+  },
+  "homepage": "https://github.com/shyguy2601/CodeForFefe#readme"
+}
